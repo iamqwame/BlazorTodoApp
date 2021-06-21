@@ -1,5 +1,10 @@
 # BlazorTodoApp
 Building simple blazor app with MongoDB 
+The single page website will have the following features
+1. Adding to your todo list
+2. Edit todo item
+3. Delete todo item
+4. Selecting all you todo items
 
 # Purpose 
 1. This is to help you Learn what NoSQL is using MongoDB,
