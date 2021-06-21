@@ -20,5 +20,5 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 2. Basic knowledge on HTML and CSS
 3. Basic understanding of NoSQL
 4. Install visual studio 2019 and above 
-  # I will recommend visual studio 2022. Download and install now using https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=community&ch=pre&rel=17
+   I will recommend visual studio 2022. Download and install now using https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=community&ch=pre&rel=17
 5. Download and install MongoDB by clicking on this click https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-4.4.6-signed.msi
