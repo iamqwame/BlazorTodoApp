@@ -1,5 +1,7 @@
 # BlazorTodoApp
-Building simple blazor app with MongoDB 
+Building simple blazor app with MongoDB.
+
+# Descriptions
 The single page website will have the following features
 1. Adding to your todo list
 2. Edit todo item
