@@ -9,6 +9,7 @@ namespace BlazorTodoApp.Data
     public class MongoApplicationContext
     {
         private readonly IMongoDatabase _db;
+        private readonly string _name = typeof(Task).Name;
 
         public MongoApplicationContext(string databaseName)
         {
@@ -18,22 +19,19 @@ namespace BlazorTodoApp.Data
 
         public void AddTask(Task task)
         {
-            string collectionName = typeof(Task).Name;
-            var collection = _db.GetCollection<Task>(collectionName);
+            var collection = _db.GetCollection<Task>(_name);
             collection.InsertOne(task);
         }
 
         public List<Task> GetTasks()
         {
-            string collectionName = typeof(Task).Name;
-            var collection = _db.GetCollection<Task>(collectionName);
+            var collection = _db.GetCollection<Task>(_name);
             return collection.Find(new BsonDocument()).ToList();
         }
 
         public Task GetTask(Guid id)
         {
-            string collectionName = typeof(Task).Name;
-            var collection = _db.GetCollection<Task>(collectionName);
+            var collection = _db.GetCollection<Task>(_name);
             var task = collection.Find(a => a.TaskId == id).FirstOrDefault();
             return task;
         }
