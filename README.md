@@ -13,7 +13,7 @@ The single page website will have the following features
 2. Why it is different from SQL
 3. How to use it in C#
 
-# Another takeway is introducing you to Blazor
+### Another takeway is introducing you to Blazor
 Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client  and server code is written in C#, allowing you to share code and libraries. For more information check https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
 
 
