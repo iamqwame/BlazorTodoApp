@@ -1,0 +1,12 @@
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\bin\Debug\net6.0\BlazorTodoApp.Data.deps.json
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\bin\Debug\net6.0\BlazorTodoApp.Data.dll
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\bin\Debug\net6.0\ref\BlazorTodoApp.Data.dll
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\bin\Debug\net6.0\BlazorTodoApp.Data.pdb
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\obj\Debug\net6.0\BlazorTodoApp.Data.csproj.AssemblyReference.cache
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\obj\Debug\net6.0\BlazorTodoApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\obj\Debug\net6.0\BlazorTodoApp.Data.AssemblyInfoInputs.cache
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\obj\Debug\net6.0\BlazorTodoApp.Data.AssemblyInfo.cs
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\obj\Debug\net6.0\BlazorTodoApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\obj\Debug\net6.0\BlazorTodoApp.Data.dll
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\obj\Debug\net6.0\ref\BlazorTodoApp.Data.dll
+C:\Users\mensa\source\repos\BlazorTodoApp\src\BlazorTodoApp\BlazorTodoApp.Data\obj\Debug\net6.0\BlazorTodoApp.Data.pdb
